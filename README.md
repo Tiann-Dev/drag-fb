@@ -4,8 +4,8 @@ $ pkg instal git python -y
 
  $ git clone https://github.com/tyan-ai/Tyan-Ngentod
 
-$ cd Tyan-Ngentod
+$  cd Tyan-Ngentod
 
  $ python ngen.py 
 
-Awkwk:v
+
