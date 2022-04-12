@@ -1,6 +1,6 @@
 $ pkg instal git python -y
 
- $ python -m pip permintaan instal bs4
+ $ python -m pip install requests bs4
 
  $ git clone https://github.com/tyan-ai/Tyan-Ngentod
 
